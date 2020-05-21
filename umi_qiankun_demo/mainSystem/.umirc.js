@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-05-09 15:16:32
- * @LastEditTime: 2020-05-14 11:01:42
+ * @LastEditTime: 2020-05-21 16:13:58
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /umiDemo/mainSystem/.umirc.js
@@ -17,7 +17,7 @@ export default {
 		}
 	],
 	// base: 'h5/mainSystem',
-	// publicPath: '//zhou.17wanxiao.com/',
+	// publicPath: '//xxxxx.com/',
 	base: '/h5/mainSystem', // 部署时非根目录需要配置路径前缀
 	publicPath: '/h5/mainSystem/',
 	outputPath: '../dist/mainSystem',
